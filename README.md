@@ -13,4 +13,4 @@ This project is a Health Symptom Checker Agent built using IBM watsonx.ai. The a
 ![Agent Assets/Prompt Lab](Screenshot_2025-07-31-12-57-06-57_40deb401b9ffe8e1df2f1cc5ba480b12.jpg )
 
 ### Prompt/Chat Example with Agent
-![Agent Chat Example](./1000061526.jpg)
+![Agent Chat Example]( Screenshot_2025-07-31-12-57-46-51_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
